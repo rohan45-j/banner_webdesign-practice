@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.full-website{
+    text-align: center;
+    color: #fff;
+    width: 1024px;
+
+    margin: 020px auto;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.4);
+}
+.menu{
+    background: #6668e2;
+}
+
+.container{
+    background: #1abc9c;
+}
+
+.footer{
+    background: #34495e;
+}
+.footer-bottom{
+    background: #2c3e50;
+}
+
+img{
+    max-width: 100%;
+    margin-bottom: -5px;
+}
+
+.op{
+    padding: 30px 0;
+}
+
+.opx{
+    padding: 60px 0;
+}
